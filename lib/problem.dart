@@ -86,12 +86,12 @@ class _AddingState extends State<Adding> {
                 if (result != null) {
                   // If a file is selected, get its path
                   selectedFilePath = result.files.single.path;
-                  // Optionally, show a snackbar or a message
+                  
                   ScaffoldMessenger.of(context).showSnackBar(
                     SnackBar(content: Text('File selected: $selectedFilePath')),
                   );
                 } else {
-                  // User canceled the picker
+                 
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(content: Text('No file selected')),
                   );
@@ -100,7 +100,7 @@ class _AddingState extends State<Adding> {
               child: const Text("Pick a File"),
             ),
 
-            // Display the selected file path if available
+            
             if (selectedFilePath != null) 
               Padding(
                 padding: const EdgeInsets.only(top: 20),

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138407997184",
+    "project_id": "mumbai-hacks-63ecf",
+    "storage_bucket": "mumbai-hacks-63ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138407997184:android:0183cd47fab400c80e0de5",
+        "android_client_info": {
+          "package_name": "com.example.mumbaihacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuHAs6BbsRVpdClkdhzSFTxBbR74y10I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138407997184:android:7fece276056deffa0e0de5",
+        "android_client_info": {
+          "package_name": "com.mumbaihackss.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuHAs6BbsRVpdClkdhzSFTxBbR74y10I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
