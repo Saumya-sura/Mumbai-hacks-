@@ -1,0 +1,15 @@
+{
+    "locations": [
+      { "city": "Malad", "lat": 19.1863, "lng": 72.8484 },
+      { "city": "Andheri", "lat": 19.1197, "lng": 72.8460 },
+      { "city": "Bandra", "lat": 19.0600, "lng": 72.8300 },
+      { "city": "Borivali", "lat": 19.2312, "lng": 72.8567 }
+    ],
+    "places": [
+      { "name": "Cafe A", "lat": 19.1200, "lng": 72.8500, "city": "Andheri" },
+      { "name": "Mall B", "lat": 19.2334, "lng": 72.8543, "city": "Borivali" },
+      { "name": "Library C", "lat": 19.1913, "lng": 72.8512, "city": "Malad" },
+      { "name": "Restaurant D", "lat": 19.0589, "lng": 72.8354, "city": "Bandra" }
+    ]
+  }
+  
